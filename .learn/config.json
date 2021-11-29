@@ -602,7 +602,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/12-Rand-From-One-to-Six/app.py",
+            "entry": "app.py",
             "title": "12-Rand-From-One-to-Six",
             "graded": true,
             "files": [
@@ -638,7 +638,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/13-Create-A-For-Loop/app.py",
+            "entry": "app.py",
             "title": "13-Create-A-For-Loop",
             "graded": true,
             "files": [

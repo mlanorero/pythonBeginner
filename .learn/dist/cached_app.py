@@ -1,7 +1,9 @@
-import random
+def standards_maker():
+    #your code here
+    text = "I will write questions if I am stuck"
+    print(text(i for i in range(300)))
 
-# your code here
-def generate_random():
-    print(randint(0,9))
 
-generate_random()
+
+#remember to call the function outside (here)
+standards_maker()
