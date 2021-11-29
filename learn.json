@@ -1,0 +1,16 @@
+{
+    "title": "Learn Python Interactively (beginner)",
+    "repository": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises",
+    "preview": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/preview.png?raw=true",
+    "description": "Python Exercises for beginners, from Hello World to variables, loops and a little bit of functions",
+    "duration": 10,
+    "difficulty": "easy",
+    "video-solutions": true,
+    "graded": true,
+    "language": "python3",
+    "config": {
+        "editor": {
+            "version": "1.0.71"
+        }
+    }
+}

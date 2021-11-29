@@ -1,0 +1,885 @@
+{
+    "config": {
+        "port": 3000,
+        "address": "https://jade-fowl-19s9pkyd.ws-us17.gitpod.io",
+        "editor": {
+            "mode": "preview",
+            "agent": "gitpod",
+            "version": "1.0.71"
+        },
+        "dirPath": "./.learn",
+        "configPath": "learn.json",
+        "outputPath": ".learn/dist",
+        "publicPath": "/preview",
+        "publicUrl": "https://3000-jade-fowl-19s9pkyd.ws-us17.gitpod.io",
+        "language": "auto",
+        "grading": "isolated",
+        "exercisesPath": "./exercises",
+        "webpackTemplate": null,
+        "disableGrading": false,
+        "actions": [
+            "build",
+            "test",
+            "reset"
+        ],
+        "entries": {
+            "html": "index.html",
+            "vanillajs": "index.js",
+            "react": "app.jsx",
+            "node": "app.js",
+            "python3": "app.py",
+            "java": "app.java"
+        },
+        "translations": []
+    },
+    "currentExercise": "11-Create-A-New-Function",
+    "title": "Learn Python Interactively (beginner)",
+    "repository": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises",
+    "preview": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/preview.png?raw=true",
+    "description": "Python Exercises for beginners, from Hello World to variables, loops and a little bit of functions",
+    "duration": 10,
+    "difficulty": "easy",
+    "video-solutions": true,
+    "graded": true,
+    "language": "python3",
+    "session": 3955356349332928000,
+    "exercises": [
+        {
+            "position": 0,
+            "path": "exercises/00-Welcome",
+            "slug": "00-Welcome",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": null,
+            "entry": null,
+            "title": "00-Welcome",
+            "graded": false,
+            "files": [
+                {
+                    "path": "exercises/00-Welcome/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/00-Welcome/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 1,
+            "path": "exercises/01-Console",
+            "slug": "01-Console",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "01-Console",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/01-Console/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Console/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Console/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/01-Console/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Console/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 2,
+            "path": "exercises/02-Declare-Variables",
+            "slug": "02-Declare-Variables",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "02-Declare-Variables",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/02-Declare-Variables/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 3,
+            "path": "exercises/03-Print-Variables-In-The-Console",
+            "slug": "03-Print-Variables-In-The-Console",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "03-Print-Variables-In-The-Console",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 4,
+            "path": "exercises/04-Multiply-Two-Values",
+            "slug": "04-Multiply-Two-Values",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "04-Multiply-Two-Values",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/04-Multiply-Two-Values/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Multiply-Two-Values/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Multiply-Two-Values/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/04-Multiply-Two-Values/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Multiply-Two-Values/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 5,
+            "path": "exercises/05-User-Inputed-Values",
+            "slug": "05-User-Inputed-Values",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "05-User-Inputed-Values",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/05-User-Inputed-Values/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 6,
+            "path": "exercises/06-String-Concatenation",
+            "slug": "06-String-Concatenation",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "06-String-Concatenation",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/06-String-Concatenation/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-String-Concatenation/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-String-Concatenation/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/06-String-Concatenation/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-String-Concatenation/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 7,
+            "path": "exercises/07-Create-a-Basic-HTML",
+            "slug": "07-Create-a-Basic-HTML",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "07-Create-a-Basic-HTML",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 8,
+            "path": "exercises/08-Your-First-If",
+            "slug": "08-Your-First-If",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "08-Your-First-If",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/08-Your-First-If/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Your-First-If/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Your-First-If/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08-Your-First-If/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Your-First-If/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 9,
+            "path": "exercises/08.1-How-Much-The-Wedding-Costs",
+            "slug": "08.1-How-Much-The-Wedding-Costs",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "08.1-How-Much-The-Wedding-Costs",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/solution.hide.py",
+                    "name": "solution.hide.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 10,
+            "path": "exercises/09-Random-Numbers",
+            "slug": "09-Random-Numbers",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "09-Random-Numbers",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/09-Random-Numbers/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Random-Numbers/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Random-Numbers/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/09-Random-Numbers/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/09-Random-Numbers/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 11,
+            "path": "exercises/10-Calling-Your-First-Function",
+            "slug": "10-Calling-Your-First-Function",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "10-Calling-Your-First-Function",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/10-Calling-Your-First-Function/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10-Calling-Your-First-Function/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10-Calling-Your-First-Function/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/10-Calling-Your-First-Function/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 12,
+            "path": "exercises/10.1-Creating-Your-First-Function",
+            "slug": "10.1-Creating-Your-First-Function",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "10.1-Creating-Your-First-Function",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/tests.py",
+                    "name": "tests.py",
+                    "hidden": true
+                }
+            ],
+            "done": true
+        },
+        {
+            "position": 13,
+            "path": "exercises/11-Create-A-New-Function",
+            "slug": "11-Create-A-New-Function",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "app.py",
+            "title": "11-Create-A-New-Function",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/11-Create-A-New-Function/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/11-Create-A-New-Function/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/11-Create-A-New-Function/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/11-Create-A-New-Function/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 14,
+            "path": "exercises/12-Rand-From-One-to-Six",
+            "slug": "12-Rand-From-One-to-Six",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/12-Rand-From-One-to-Six/app.py",
+            "title": "12-Rand-From-One-to-Six",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/12-Rand-From-One-to-Six/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/12-Rand-From-One-to-Six/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/12-Rand-From-One-to-Six/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/12-Rand-From-One-to-Six/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 15,
+            "path": "exercises/13-Create-A-For-Loop",
+            "slug": "13-Create-A-For-Loop",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/13-Create-A-For-Loop/app.py",
+            "title": "13-Create-A-For-Loop",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/13-Create-A-For-Loop/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/13-Create-A-For-Loop/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/13-Create-A-For-Loop/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/13-Create-A-For-Loop/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 16,
+            "path": "exercises/14-Your-First-Loop",
+            "slug": "14-Your-First-Loop",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/14-Your-First-Loop/app.py",
+            "title": "14-Your-First-Loop",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/14-Your-First-Loop/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/14-Your-First-Loop/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/14-Your-First-Loop/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/14-Your-First-Loop/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 17,
+            "path": "exercises/15-Looping-With-FizzBuzz",
+            "slug": "15-Looping-With-FizzBuzz",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/15-Looping-With-FizzBuzz/app.py",
+            "title": "15-Looping-With-FizzBuzz",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/15-Looping-With-FizzBuzz/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/15-Looping-With-FizzBuzz/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/15-Looping-With-FizzBuzz/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/15-Looping-With-FizzBuzz/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 18,
+            "path": "exercises/16-Random-Colors-Loop",
+            "slug": "16-Random-Colors-Loop",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/16-Random-Colors-Loop/app.py",
+            "title": "16-Random-Colors-Loop",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/16-Random-Colors-Loop/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/16-Random-Colors-Loop/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/16-Random-Colors-Loop/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/16-Random-Colors-Loop/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 19,
+            "path": "exercises/17-Russian-Roulette",
+            "slug": "17-Russian-Roulette",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/17-Russian-Roulette/app.py",
+            "title": "17-Russian-Roulette",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/17-Russian-Roulette/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/17-Russian-Roulette/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/17-Russian-Roulette/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/17-Russian-Roulette/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 20,
+            "path": "exercises/18-The-Beatles",
+            "slug": "18-The-Beatles",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/18-The-Beatles/app.py",
+            "title": "18-The-Beatles",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/18-The-Beatles/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/18-The-Beatles/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/18-The-Beatles/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/18-The-Beatles/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        },
+        {
+            "position": 21,
+            "path": "exercises/19-Bottles-Of-Milk",
+            "slug": "19-Bottles-Of-Milk",
+            "translations": {
+                "es": "README.es.md",
+                "us": "README.md"
+            },
+            "language": "python3",
+            "entry": "exercises/19-Bottles-Of-Milk/app.py",
+            "title": "19-Bottles-Of-Milk",
+            "graded": true,
+            "files": [
+                {
+                    "path": "exercises/19-Bottles-Of-Milk/README.es.md",
+                    "name": "README.es.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/19-Bottles-Of-Milk/README.md",
+                    "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/19-Bottles-Of-Milk/app.py",
+                    "name": "app.py",
+                    "hidden": false
+                },
+                {
+                    "path": "exercises/19-Bottles-Of-Milk/test.py",
+                    "name": "test.py",
+                    "hidden": true
+                }
+            ],
+            "done": false
+        }
+    ]
+}
