@@ -1,1 +1,6 @@
-[]
+[
+  "exercises/13-Create-A-For-Loop/test.py::test_variable_exists",
+  "exercises/13-Create-A-For-Loop/test.py::test_for_file_output",
+  "exercises/13-Create-A-For-Loop/test.py::test_for_print",
+  "exercises/13-Create-A-For-Loop/test.py::test_callTheFunction"
+]

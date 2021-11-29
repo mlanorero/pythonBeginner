@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://jade-fowl-19s9pkyd.ws-us17.gitpod.io",
+        "address": "https://tomato-coyote-nv57kogp.ws-us17.gitpod.io",
         "editor": {
             "mode": "preview",
             "agent": "gitpod",
@@ -11,7 +11,7 @@
         "configPath": "learn.json",
         "outputPath": ".learn/dist",
         "publicPath": "/preview",
-        "publicUrl": "https://3000-jade-fowl-19s9pkyd.ws-us17.gitpod.io",
+        "publicUrl": "https://3000-tomato-coyote-nv57kogp.ws-us17.gitpod.io",
         "language": "auto",
         "grading": "isolated",
         "exercisesPath": "./exercises",
@@ -32,7 +32,7 @@
         },
         "translations": []
     },
-    "currentExercise": "11-Create-A-New-Function",
+    "currentExercise": null,
     "title": "Learn Python Interactively (beginner)",
     "repository": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises",
     "preview": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/preview.png?raw=true",
@@ -42,7 +42,7 @@
     "video-solutions": true,
     "graded": true,
     "language": "python3",
-    "session": 3955356349332928000,
+    "session": 3635651348352293400,
     "exercises": [
         {
             "position": 0,
@@ -79,7 +79,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/01-Console/app.py",
             "title": "01-Console",
             "graded": true,
             "files": [
@@ -91,6 +91,11 @@
                 {
                     "path": "exercises/01-Console/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/01-Console/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -120,7 +125,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/02-Declare-Variables/app.py",
             "title": "02-Declare-Variables",
             "graded": true,
             "files": [
@@ -132,6 +137,11 @@
                 {
                     "path": "exercises/02-Declare-Variables/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/02-Declare-Variables/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -161,7 +171,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/03-Print-Variables-In-The-Console/app.py",
             "title": "03-Print-Variables-In-The-Console",
             "graded": true,
             "files": [
@@ -173,6 +183,11 @@
                 {
                     "path": "exercises/03-Print-Variables-In-The-Console/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/03-Print-Variables-In-The-Console/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -202,7 +217,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/04-Multiply-Two-Values/app.py",
             "title": "04-Multiply-Two-Values",
             "graded": true,
             "files": [
@@ -214,6 +229,11 @@
                 {
                     "path": "exercises/04-Multiply-Two-Values/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/04-Multiply-Two-Values/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -243,7 +263,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/05-User-Inputed-Values/app.py",
             "title": "05-User-Inputed-Values",
             "graded": true,
             "files": [
@@ -255,6 +275,11 @@
                 {
                     "path": "exercises/05-User-Inputed-Values/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/05-User-Inputed-Values/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -284,7 +309,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/06-String-Concatenation/app.py",
             "title": "06-String-Concatenation",
             "graded": true,
             "files": [
@@ -296,6 +321,11 @@
                 {
                     "path": "exercises/06-String-Concatenation/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/06-String-Concatenation/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -325,7 +355,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/07-Create-a-Basic-HTML/app.py",
             "title": "07-Create-a-Basic-HTML",
             "graded": true,
             "files": [
@@ -337,6 +367,11 @@
                 {
                     "path": "exercises/07-Create-a-Basic-HTML/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/07-Create-a-Basic-HTML/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -366,7 +401,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/08-Your-First-If/app.py",
             "title": "08-Your-First-If",
             "graded": true,
             "files": [
@@ -378,6 +413,11 @@
                 {
                     "path": "exercises/08-Your-First-If/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08-Your-First-If/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -407,7 +447,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/08.1-How-Much-The-Wedding-Costs/app.py",
             "title": "08.1-How-Much-The-Wedding-Costs",
             "graded": true,
             "files": [
@@ -419,6 +459,11 @@
                 {
                     "path": "exercises/08.1-How-Much-The-Wedding-Costs/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/08.1-How-Much-The-Wedding-Costs/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -448,7 +493,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/09-Random-Numbers/app.py",
             "title": "09-Random-Numbers",
             "graded": true,
             "files": [
@@ -489,7 +534,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "app.py",
+            "entry": "exercises/10-Calling-Your-First-Function/app.py",
             "title": "10-Calling-Your-First-Function",
             "graded": true,
             "files": [
@@ -501,6 +546,11 @@
                 {
                     "path": "exercises/10-Calling-Your-First-Function/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10-Calling-Your-First-Function/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -537,6 +587,11 @@
                 {
                     "path": "exercises/10.1-Creating-Your-First-Function/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/10.1-Creating-Your-First-Function/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {
@@ -581,6 +636,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/11-Create-A-New-Function/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/11-Create-A-New-Function/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -617,6 +677,11 @@
                     "hidden": true
                 },
                 {
+                    "path": "exercises/12-Rand-From-One-to-Six/__pycache__",
+                    "name": "__pycache__",
+                    "hidden": true
+                },
+                {
                     "path": "exercises/12-Rand-From-One-to-Six/app.py",
                     "name": "app.py",
                     "hidden": false
@@ -627,7 +692,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 15,
@@ -650,6 +715,11 @@
                 {
                     "path": "exercises/13-Create-A-For-Loop/README.md",
                     "name": "README.md",
+                    "hidden": true
+                },
+                {
+                    "path": "exercises/13-Create-A-For-Loop/__pycache__",
+                    "name": "__pycache__",
                     "hidden": true
                 },
                 {

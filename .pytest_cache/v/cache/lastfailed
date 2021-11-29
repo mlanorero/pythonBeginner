@@ -1,5 +1,4 @@
 {
   "exercises/11-Create-A-New-Function/test.py::test_for_file_output": true,
-  "exercises/12-Rand-From-One-to-Six/test.py::test_conditional": true,
-  "exercises/13-Create-A-For-Loop/test.py": true
+  "exercises/13-Create-A-For-Loop/test.py::test_for_file_output": true
 }
