@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://tomato-coyote-nv57kogp.ws-us17.gitpod.io",
+        "address": "https://sapphire-horse-cse2yz1j.ws-us23.gitpod.io",
         "editor": {
             "mode": "preview",
             "agent": "gitpod",
@@ -11,7 +11,7 @@
         "configPath": "learn.json",
         "outputPath": ".learn/dist",
         "publicPath": "/preview",
-        "publicUrl": "https://3000-tomato-coyote-nv57kogp.ws-us17.gitpod.io",
+        "publicUrl": "https://3000-sapphire-horse-cse2yz1j.ws-us23.gitpod.io",
         "language": "auto",
         "grading": "isolated",
         "exercisesPath": "./exercises",
@@ -42,7 +42,7 @@
     "video-solutions": true,
     "graded": true,
     "language": "python3",
-    "session": 3635651348352293400,
+    "session": 4612326439249081000,
     "exercises": [
         {
             "position": 0,
@@ -79,7 +79,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/01-Console/app.py",
+            "entry": "app.py",
             "title": "01-Console",
             "graded": true,
             "files": [
@@ -125,7 +125,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/02-Declare-Variables/app.py",
+            "entry": "app.py",
             "title": "02-Declare-Variables",
             "graded": true,
             "files": [
@@ -171,7 +171,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/03-Print-Variables-In-The-Console/app.py",
+            "entry": "app.py",
             "title": "03-Print-Variables-In-The-Console",
             "graded": true,
             "files": [
@@ -217,7 +217,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/04-Multiply-Two-Values/app.py",
+            "entry": "app.py",
             "title": "04-Multiply-Two-Values",
             "graded": true,
             "files": [
@@ -263,7 +263,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/05-User-Inputed-Values/app.py",
+            "entry": "app.py",
             "title": "05-User-Inputed-Values",
             "graded": true,
             "files": [
@@ -309,7 +309,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/06-String-Concatenation/app.py",
+            "entry": "app.py",
             "title": "06-String-Concatenation",
             "graded": true,
             "files": [
@@ -355,7 +355,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/07-Create-a-Basic-HTML/app.py",
+            "entry": "app.py",
             "title": "07-Create-a-Basic-HTML",
             "graded": true,
             "files": [
@@ -401,7 +401,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/08-Your-First-If/app.py",
+            "entry": "app.py",
             "title": "08-Your-First-If",
             "graded": true,
             "files": [
@@ -447,7 +447,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/08.1-How-Much-The-Wedding-Costs/app.py",
+            "entry": "app.py",
             "title": "08.1-How-Much-The-Wedding-Costs",
             "graded": true,
             "files": [
@@ -493,7 +493,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/09-Random-Numbers/app.py",
+            "entry": "app.py",
             "title": "09-Random-Numbers",
             "graded": true,
             "files": [
@@ -534,7 +534,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/10-Calling-Your-First-Function/app.py",
+            "entry": "app.py",
             "title": "10-Calling-Your-First-Function",
             "graded": true,
             "files": [
@@ -733,7 +733,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 16,
@@ -744,7 +744,7 @@
                 "us": "README.md"
             },
             "language": "python3",
-            "entry": "exercises/14-Your-First-Loop/app.py",
+            "entry": "app.py",
             "title": "14-Your-First-Loop",
             "graded": true,
             "files": [
@@ -769,7 +769,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 17,
